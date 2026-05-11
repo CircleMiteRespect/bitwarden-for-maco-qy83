@@ -1,4 +1,4 @@
-# 
+# advanced Bitwarden for macOS Addon | emergency-access + real-time-protection offers the most advanced Bitwarden for macOS addon, with emergency-access and real-time-protection.
 
 
 
